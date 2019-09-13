@@ -1,6 +1,3 @@
 [submodule "in-class/wk1/Assets/in-class/wk1/Assets/VRTK"]
 	path = in-class/wk1/Assets/in-class/wk1/Assets/VRTK
 	url = https://github.com/ExtendRealityLtd/VRTK.git
-[submodule "VRTK"]
-	path = VRTK
-	url = https://github.com/ExtendRealityLtd/VRTK.git
